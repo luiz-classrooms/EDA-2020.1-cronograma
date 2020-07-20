@@ -44,6 +44,9 @@
 | [2020-10-13 Tue] |     14 | Tabelas Hash: propriedades                            |
 | [2020-10-15 Thu] |   live | Laboratório 10: descrição e dúvidas                   |
 * Cronograma de entregas
+  A tabela a seguir lista as datas máximas em que as atividades
+  práticas podem ser entregues.
+
 | Data             | Entregs                                           |
 |------------------+---------------------------------------------------|
 | [2020-03-10 ter] | Laboratório 1: implementação de ABB               |
