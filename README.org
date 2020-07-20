@@ -1,0 +1,48 @@
+* Cronograma de aulas
+| Data             | Tópico | Estruturas de Dados Avançada                          |
+|------------------+--------+-------------------------------------------------------|
+| [2020-02-27 qui] |      0 | Árvores Binárias de Busca: revisão                    |
+| [2020-03-03 ter] |      0 | Laboratório 1: aula presencial                        |
+| [2020-03-05 qui] |      0 | Árvores AVL: definição e operações                    |
+| [2020-03-07 sáb] |      0 | Árvores AVL: propriedades                             |
+| [2020-03-10 ter] |      0 | Laboratório 2: aula presencial                        |
+|------------------+--------+-------------------------------------------------------|
+| [2020-08-04 Tue] |      1 | Árvores Rubro-Negras: definição e operações           |
+| [2020-08-06 Thu] |      2 | Árvores Rubro-Negras: propriedades                    |
+| [2020-08-11 Tue] |   live | Laboratório 3: descrição e dúvidas                    |
+| [2020-08-13 Thu] |      3 | Árvores B: definição e operações                      |
+| [2020-08-18 Tue] |      4 | Árvores B: propriedades                               |
+| [2020-08-20 Thu] |   live | Laboratório 4: descrição e dúvidas                    |
+|------------------+--------+-------------------------------------------------------|
+| [2020-08-25 Tue] |      5 | Heaps Binárias: definição e operações                 |
+| [2020-08-27 Thu] |   live | Laboratório 5: descrição e dúvidas                    |
+| [2020-09-01 Tue] |      6 | Heaps de Fibonacci: definição e operações             |
+| [2020-09-03 Thu] |      7 | Heaps de Fibonacci: propriedades                      |
+| [2020-09-08 Tue] |   live | Laboratório 6: descrição e dúvidas                    |
+|------------------+--------+-------------------------------------------------------|
+| [2020-09-10 Thu] |      8 | Conjuntos Disjuntos: definição e operações            |
+| [2020-09-15 Tue] |      9 | Conjuntos Disjuntos: propriedades                     |
+| [2020-09-17 Thu] |   live | Laboratório 7: descrição e dúvidas                    |
+| [2020-09-22 Tue] |     10 | Grafos: definição e representações                    |
+| [2020-09-24 Thu] |     11 | Grafos Direcionados: buscas em largura e profundidade |
+| [2020-09-29 Tue] |   live | Laboratório 8: descrição e dúvidas                    |
+| [2020-10-01 Thu] |     12 | Grafos: Árvore Geradora Mínima                        |
+| [2020-10-06 Tue] |   live | Laboratório 9: descrição e dúvidas                    |
+|------------------+--------+-------------------------------------------------------|
+| [2020-10-08 Thu] |     13 | Tabelas Hash: definição e operações                   |
+| [2020-10-13 Tue] |     14 | Tabelas Hash: propriedades                            |
+| [2020-10-15 Thu] |   live | Laboratório 10: descrição e dúvidas                   |
+* Cronograma de netregas
+| Data             | Entregs                                           |
+|------------------+---------------------------------------------------|
+| [2020-03-10 ter] | Laboratório 1: implementação de ABB               |
+| [2020-03-17 ter] | Laboratório 2: implementação de Árvores AVL       |
+| [2020-08-18 Tue] | Laboratório 3: implementação de Árvores RB        |
+| [2020-08-27 Thu] | Laboratório 4: implementação de Árvores B         |
+| [2020-09-03 Thu] | Laboratório 5: implementação de Heaps Bin.        |
+| [2020-09-15 Tue] | Laboratório 6: implementação de Heaps Fib.        |
+| [2020-09-24 Thu] | Laboratório 7: implementação de CD                |
+| [2020-10-06 Tue] | Laboratório 8: implementação de digrafos e buscas |
+| [2020-10-13 Tue] | Laboratório 9: implementação de Kruskal com CD    |
+| [2020-10-22 Tue] | Laboratório 10: implementação de Tabelas Hash     |
+
