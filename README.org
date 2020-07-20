@@ -58,5 +58,5 @@
 | [2020-09-24 Thu] | Laboratório 7: implementação de CD                |
 | [2020-10-06 Tue] | Laboratório 8: implementação de digrafos e buscas |
 | [2020-10-13 Tue] | Laboratório 9: implementação de Kruskal com CD    |
-| [2020-10-22 Tue] | Laboratório 10: implementação de Tabelas Hash     |
+| [2020-10-22 Thu] | Laboratório 10: implementação de Tabelas Hash     |
 
