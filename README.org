@@ -32,7 +32,7 @@
 | [2020-10-08 Thu] |     13 | Tabelas Hash: definição e operações                   |
 | [2020-10-13 Tue] |     14 | Tabelas Hash: propriedades                            |
 | [2020-10-15 Thu] |   live | Laboratório 10: descrição e dúvidas                   |
-* Cronograma de netregas
+* Cronograma de entregas
 | Data             | Entregs                                           |
 |------------------+---------------------------------------------------|
 | [2020-03-10 ter] | Laboratório 1: implementação de ABB               |
