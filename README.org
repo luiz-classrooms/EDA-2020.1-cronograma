@@ -1,3 +1,7 @@
+* Lives
+  Teremos lives todas as terças, às 15:00, pelo Google Meet. Além
+  dessas, existem outras lives referentes às atividades práticas
+  (laboratórios); consulte a seção seguinte para mais detalhes.
 * Cronograma de aulas
 | Data             | Tópico | Estruturas de Dados Avançada                          |
 |------------------+--------+-------------------------------------------------------|
