@@ -3,6 +3,13 @@
   dessas, existem outras lives referentes às atividades práticas
   (laboratórios); consulte a seção seguinte para mais detalhes.
 * Cronograma de aulas
+  Na tabela que segue, são listadas as aulas (assíncronas) e as datas
+  em que os vídeos devem estar disponíveis pelo Google Drive. Aulas
+  com Tópico 0 ocorreram de forma presencial, antes da interrupção de
+  atividades. Aulas cujo Tópico é descrito como live correspondem a
+  aulas de laboratório, que ocorrerão de forma síncrona, para a
+  descrição das implementações a serem feitas.
+
 | Data             | Tópico | Estruturas de Dados Avançada                          |
 |------------------+--------+-------------------------------------------------------|
 | [2020-02-27 qui] |      0 | Árvores Binárias de Busca: revisão                    |
